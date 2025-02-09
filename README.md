@@ -14,14 +14,10 @@ This project demonstrates how AI agents can detect objects purely through reason
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/claude-object-detection.git
-    cd claude-object-detection
+    git clone https://github.com/pathanjalisrinivasan/object_detection.git
+    cd object_detection
     ```
-2. Install dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
-3. Run the Streamlit app:
+2. Run the Streamlit app:
     ```sh
     streamlit run app.py
     ```
